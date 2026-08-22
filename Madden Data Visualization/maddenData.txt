@@ -1,0 +1,1084 @@
+Team Name: Redskins
+Legacy: 25.666666666666664
+Wins: 11
+1 108 122 135 150 166 177 205 206 207 226 
+Loses: 4
+90 93 98 221 
+
+Player Name: Helu
+Legacy: 27.0
+MVPs: 1  DPOTGs: 0
+
+Player Name: Hall
+Legacy: 32.0
+MVPs: 0  DPOTGs: 4
+
+Player Name: RG3
+Legacy: 51.0
+MVPs: 9  DPOTGs: 0
+
+Player Name: Saftey Jackson
+Legacy: 34.0
+MVPs: 0  DPOTGs: 5
+
+Player Name: Wilson
+Legacy: 26.0
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Saints
+Legacy: 10.5
+Wins: 6
+3 12 32 102 165 229 
+Loses: 6
+1 8 29 195 218 234 
+
+Player Name: Drew Brees
+Legacy: 24.0
+MVPs: 3  DPOTGs: 0
+
+Player Name: Jenkins
+Legacy: 19.0
+MVPs: 0  DPOTGs: 2
+
+
+
+Team Name: Broncos
+Legacy: 5.333333333333333
+Wins: 4
+2 90 230 233 
+Loses: 8
+54 63 101 132 156 177 212 238 
+
+Player Name: Peyton Manning
+Legacy: 18.0
+MVPs: 2  DPOTGs: 0
+
+Player Name: Carter
+Legacy: 16.0
+MVPs: 0  DPOTGs: 2
+
+Player Name: Demyrius Thomas
+Legacy: 15.0
+MVPs: 1  DPOTGs: 0
+
+
+
+Team Name: Packers
+Legacy: 7.7368421052631575
+Wins: 6
+61 66 137 200 203 236 
+Loses: 13
+2 46 66 68 70 85 126 142 146 157 187 210 222 
+
+Player Name: Aaron Rodgers
+Legacy: 33.5
+MVPs: 5  DPOTGs: 0
+
+Player Name: Morgan Burnett
+Legacy: 26.5
+MVPs: 0  DPOTGs: 4
+
+
+
+Team Name: Dolphins
+Legacy: 12.888888888888888
+Wins: 8
+28 31 36 47 63 85 171 222 
+Loses: 10
+3 38 50 51 62 99 135 169 202 225 
+
+Player Name: Matt Moore
+Legacy: 27.0
+MVPs: 2  DPOTGs: 0
+
+Player Name: Jones
+Legacy: 25.0
+MVPs: 0  DPOTGs: 2
+
+Player Name: Reggie Bush
+Legacy: 24.0
+MVPs: 1  DPOTGs: 0
+
+
+
+Team Name: Ravens
+Legacy: 14.0
+Wins: 8
+4 53 68 91 134 190 218 235 
+Loses: 8
+30 31 33 40 48 153 204 211 
+
+Player Name: Joe Flacco
+Legacy: 32.0
+MVPs: 4  DPOTGs: 0
+
+Player Name: Ed Reed
+Legacy: 33.0
+MVPs: 1  DPOTGs: 5
+
+Player Name: Tory Smith
+Legacy: 23.0
+MVPs: 1  DPOTGs: 0
+
+
+
+Team Name: Buccaneers
+Legacy: 8.294117647058824
+Wins: 6
+13 26 87 109 110 182 
+Loses: 11
+4 75 84 102 111 143 145 181 188 200 227 
+
+Player Name: Josh Freeman
+Legacy: 29.5
+MVPs: 4  DPOTGs: 0
+
+Player Name: McCoy
+Legacy: 19.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Grimm
+Legacy: 21.5
+MVPs: 0  DPOTGs: 2
+
+
+
+Team Name: Jets
+Legacy: 16.363636363636363
+Wins: 10
+5 15 50 60 93 99 128 141 183 196 
+Loses: 12
+7 23 24 60 61 79 112 119 150 186 189 193 
+
+Player Name: Mark Sanchez
+Legacy: 44.0
+MVPs: 6  DPOTGs: 0
+
+Player Name: Laundry
+Legacy: 28.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Harris
+Legacy: 28.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Darrell Revis
+Legacy: 28.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Antonio Cromartie
+Legacy: 28.0
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Raiders
+Legacy: 23.400000000000002
+Wins: 13
+17 49 76 94 98 126 148 157 178 179 189 191 199 
+Loses: 12
+5 22 34 39 45 58 59 140 176 180 194 228 
+
+Player Name: Darrell McFadden
+Legacy: 44.0
+MVPs: 4  DPOTGs: 0
+
+Player Name: Carson Palmer
+Legacy: 47.0
+MVPs: 5  DPOTGs: 0
+
+Player Name: Huff
+Legacy: 44.0
+MVPs: 0  DPOTGs: 6
+
+Player Name: Spencer
+Legacy: 34.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Bartell
+Legacy: 34.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Heyward-Bay
+Legacy: 35.0
+MVPs: 1  DPOTGs: 0
+
+
+
+Team Name: Rams
+Legacy: 10.5
+Wins: 6
+6 25 34 51 169 216 
+Loses: 6
+15 28 43 72 95 161 
+
+Player Name: Sam Bradford
+Legacy: 18.0
+MVPs: 1  DPOTGs: 0
+
+Player Name: Mikell
+Legacy: 19.0
+MVPs: 0  DPOTGs: 2
+
+Player Name: Steven Jackson
+Legacy: 18.0
+MVPs: 1  DPOTGs: 0
+
+
+
+Team Name: Lions
+Legacy: 23.142857142857142
+Wins: 12
+11 40 55 58 89 119 136 149 162 181 185 234 
+Loses: 9
+6 26 36 77 89 123 167 185 223 
+
+Player Name: Saftey Delmas
+Legacy: 47.5
+MVPs: 1  DPOTGs: 8
+
+Player Name: Matthew Stafford
+Legacy: 40.5
+MVPs: 4  DPOTGs: 0
+
+Player Name: Calvin Johnson
+Legacy: 37.5
+MVPs: 3  DPOTGs: 0
+
+
+
+Team Name: Titans
+Legacy: 22.305555555555557
+Wins: 11
+7 42 69 74 86 130 167 192 204 217 225 
+Loses: 7
+168 179 198 203 216 220 229 
+
+Player Name: Matt Hassellback
+Legacy: 40.5
+MVPs: 5  DPOTGs: 0
+
+Player Name: Chris Johnson
+Legacy: 37.5
+MVPs: 4  DPOTGs: 0
+
+Player Name: Griffin
+Legacy: 37.5
+MVPs: 0  DPOTGs: 6
+
+
+
+Team Name: Bengals
+Legacy: 8.75
+Wins: 5
+8 20 27 33 224 
+Loses: 5
+41 88 113 152 230 
+
+Player Name: Andy Dalton
+Legacy: 15.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Reggie Nelson
+Legacy: 14.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Chiefs
+Legacy: 38.476190476190474
+Wins: 16
+9 30 70 77 118 140 151 152 159 164 168 194 211 219 221 223 
+Loses: 5
+35 56 94 148 160 
+
+Player Name: Jamaal Charles
+Legacy: 43.5
+MVPs: 3  DPOTGs: 0
+
+Player Name: Lewis
+Legacy: 46.5
+MVPs: 0  DPOTGs: 6
+
+Player Name: Matt Cassel
+Legacy: 67.5
+MVPs: 11  DPOTGs: 0
+
+Player Name: Poe
+Legacy: 40.5
+MVPs: 0  DPOTGs: 3
+
+Player Name: Flowers
+Legacy: 38.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: Routt
+Legacy: 36.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Patriots
+Legacy: 9.625
+Wins: 7
+24 29 59 82 184 208 215 
+Loses: 13
+9 11 19 20 47 55 67 120 125 129 158 190 237 
+
+Player Name: Brandon Lloyd
+Legacy: 26.5
+MVPs: 2  DPOTGs: 0
+
+Player Name: Tom Brady
+Legacy: 26.5
+MVPs: 2  DPOTGs: 0
+
+Player Name: Stephen Gregory
+Legacy: 26.5
+MVPs: 0  DPOTGs: 3
+
+
+
+Team Name: Steelers
+Legacy: 15.428571428571427
+Wins: 8
+10 44 48 81 121 138 175 228 
+Loses: 6
+14 52 136 138 162 183 
+
+Player Name: Big Ben
+Legacy: 31.0
+MVPs: 4  DPOTGs: 0
+
+Player Name: Taylor
+Legacy: 25.0
+MVPs: 0  DPOTGs: 3
+
+Player Name: Mike Wallace
+Legacy: 22.0
+MVPs: 1  DPOTGs: 0
+
+Player Name: Clark
+Legacy: 21.0
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Chargers
+Legacy: 6.444444444444444
+Wins: 4
+71 83 95 114 
+Loses: 5
+10 103 133 197 232 
+
+Player Name: Matthews
+Legacy: 13.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Philip Rivers
+Legacy: 19.5
+MVPs: 3  DPOTGs: 0
+
+Player Name: Cason
+Legacy: 12.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Texans
+Legacy: 16.904761904761905
+Wins: 10
+35 43 73 105 125 156 197 220 231 237 
+Loses: 11
+12 18 44 74 82 110 121 149 184 207 224 
+
+Player Name: Andre Johnson
+Legacy: 31.5
+MVPs: 2  DPOTGs: 0
+
+Player Name: Manning
+Legacy: 33.5
+MVPs: 0  DPOTGs: 4
+
+Player Name: Matt Schaub
+Legacy: 43.5
+MVPs: 6  DPOTGs: 0
+
+Player Name: Jackson
+Legacy: 27.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Cody
+Legacy: 27.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Cushing
+Legacy: 27.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Bills
+Legacy: 5.636363636363637
+Wins: 4
+52 54 107 154 
+Loses: 7
+13 21 155 159 163 213 235 
+
+Player Name: Fred Jackson
+Legacy: 14.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: McGee
+Legacy: 13.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Ryan Fitzpatrick
+Legacy: 14.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Shepard
+Legacy: 13.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Vikings
+Legacy: 13.708333333333334
+Wins: 7
+14 41 88 104 113 173 214 
+Loses: 5
+86 106 108 172 231 
+
+Player Name: Adrian Peterson
+Legacy: 25.5
+MVPs: 3  DPOTGs: 0
+
+Player Name: Harrison Smith
+Legacy: 27.5
+MVPs: 1  DPOTGs: 4
+
+
+
+Team Name: 49ers
+Legacy: 22.305555555555557
+Wins: 11
+16 39 46 92 103 117 127 147 160 174 188 
+Loses: 7
+65 81 91 96 105 141 151 
+
+Player Name: Alex Smith
+Legacy: 43.5
+MVPs: 6  DPOTGs: 0
+
+Player Name: Goldson
+Legacy: 37.5
+MVPs: 0  DPOTGs: 6
+
+Player Name: Frank Gore
+Legacy: 28.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Willis
+Legacy: 27.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Giants
+Legacy: 4.666666666666667
+Wins: 4
+38 112 133 176 
+Loses: 11
+16 53 87 92 117 127 128 139 164 206 214 
+
+Player Name: Eli Manning
+Legacy: 22.5
+MVPs: 3  DPOTGs: 0
+
+Player Name: Rolle
+Legacy: 15.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Blackburn
+Legacy: 17.5
+MVPs: 0  DPOTGs: 2
+
+
+
+Team Name: Seahawks
+Legacy: 13.708333333333334
+Wins: 7
+18 67 75 97 116 146 232 
+Loses: 5
+17 42 215 217 226 
+
+Player Name: Williams
+Legacy: 19.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Marshawn Lynch
+Legacy: 25.5
+MVPs: 3  DPOTGs: 0
+
+Player Name: Earl Thomas
+Legacy: 20.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: Matt Flynn
+Legacy: 19.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Richard Sherman
+Legacy: 18.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Colts
+Legacy: 7.708333333333334
+Wins: 5
+19 62 65 209 213 
+Loses: 7
+97 166 173 174 178 182 205 
+
+Player Name: Andrew Luck
+Legacy: 16.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Bethea
+Legacy: 17.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: RB Brown
+Legacy: 16.5
+MVPs: 1  DPOTGs: 0
+
+
+
+Team Name: Cardinals
+Legacy: 13.708333333333334
+Wins: 7
+21 100 111 123 163 202 227 
+Loses: 5
+32 83 170 171 233 
+
+Player Name: RB Wells
+Legacy: 19.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Larry Fitzgerald
+Legacy: 19.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Rhodes
+Legacy: 26.5
+MVPs: 0  DPOTGs: 5
+
+Player Name: Kevin Kolb
+Legacy: 28.5
+MVPs: 4  DPOTGs: 0
+
+
+
+Team Name: Panthers
+Legacy: 21.777777777777775
+Wins: 8
+22 80 120 131 142 161 187 193 
+Loses: 1
+199 
+
+Player Name: Steve Smith
+Legacy: 22.5
+MVPs: 2  DPOTGs: 0
+
+Player Name: Cam Newton
+Legacy: 31.5
+MVPs: 5  DPOTGs: 0
+
+Player Name: McClain
+Legacy: 18.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Munnerlyn
+Legacy: 20.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: Beason
+Legacy: 18.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Martin
+Legacy: 20.5
+MVPs: 0  DPOTGs: 2
+
+
+
+Team Name: Jaguars
+Legacy: 5.972222222222222
+Wins: 5
+23 37 45 57 129 
+Loses: 13
+37 64 76 78 107 131 137 147 175 192 196 201 236 
+
+Player Name: Maurice Jones-drew
+Legacy: 19.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Cox
+Legacy: 18.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Bears
+Legacy: 9.444444444444445
+Wins: 5
+84 96 145 170 201 
+Loses: 4
+25 80 104 219 
+
+Player Name: Jay Cutler
+Legacy: 27.0
+MVPs: 5  DPOTGs: 0
+
+Player Name: Tilman
+Legacy: 14.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Conte
+Legacy: 14.0
+MVPs: 0  DPOTGs: 1
+
+Player Name: Brian Urlachur
+Legacy: 14.0
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Falcons
+Legacy: 14.666666666666666
+Wins: 8
+64 79 101 106 143 153 180 238 
+Loses: 7
+27 71 115 118 124 165 191 
+
+Player Name: Michael Turner
+Legacy: 25.5
+MVPs: 2  DPOTGs: 0
+
+Player Name: Julio Jones
+Legacy: 22.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Grimes
+Legacy: 23.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: Matt Ryan
+Legacy: 31.5
+MVPs: 4  DPOTGs: 0
+
+Player Name: Decoud
+Legacy: 23.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: Babineaux
+Legacy: 21.5
+MVPs: 0  DPOTGs: 1
+
+
+
+Team Name: Eagles
+Legacy: 11.181818181818182
+Wins: 6
+56 72 115 132 139 155 
+Loses: 5
+49 57 73 114 122 
+
+Player Name: Desean Jackson
+Legacy: 17.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Mike Vick
+Legacy: 26.5
+MVPs: 4  DPOTGs: 0
+
+Player Name: Allen
+Legacy: 18.5
+MVPs: 0  DPOTGs: 2
+
+Player Name: Asomaugh
+Legacy: 18.5
+MVPs: 0  DPOTGs: 2
+
+
+
+Team Name: Browns
+Legacy: 4.3125
+Wins: 3
+78 172 195 
+Loses: 5
+69 109 116 154 208 
+
+Player Name: RB Richardson
+Legacy: 11.5
+MVPs: 1  DPOTGs: 0
+
+Player Name: Young and Jackson
+Legacy: 10.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Colt McCoy
+Legacy: 14.5
+MVPs: 2  DPOTGs: 0
+
+Player Name: Young
+Legacy: 14.5
+MVPs: 0  DPOTGs: 3
+
+
+
+Team Name: Cowboys
+Legacy: 13.708333333333334
+Wins: 7
+124 144 158 186 198 210 212 
+Loses: 5
+100 130 134 144 209 
+
+Player Name: Tony Romo
+Legacy: 34.5
+MVPs: 6  DPOTGs: 0
+
+Player Name: Carr
+Legacy: 18.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Claiborne
+Legacy: 18.5
+MVPs: 0  DPOTGs: 1
+
+Player Name: Sensabaugh
+Legacy: 26.5
+MVPs: 0  DPOTGs: 5
+
+Player Name: Dex Bryant
+Legacy: 19.5
+MVPs: 1  DPOTGs: 0
+
+
+
+1 - Team Name: Chiefs  Legacy: 38.476190476190474
+2 - Team Name: Redskins  Legacy: 25.666666666666664
+3 - Team Name: Raiders  Legacy: 23.400000000000002
+4 - Team Name: Lions  Legacy: 23.142857142857142
+5 - Team Name: Titans  Legacy: 22.305555555555557
+6 - Team Name: 49ers  Legacy: 22.305555555555557
+7 - Team Name: Panthers  Legacy: 21.777777777777775
+8 - Team Name: Texans  Legacy: 16.904761904761905
+9 - Team Name: Jets  Legacy: 16.363636363636363
+10 - Team Name: Steelers  Legacy: 15.428571428571427
+11 - Team Name: Falcons  Legacy: 14.666666666666666
+12 - Team Name: Ravens  Legacy: 14.0
+13 - Team Name: Vikings  Legacy: 13.708333333333334
+14 - Team Name: Seahawks  Legacy: 13.708333333333334
+15 - Team Name: Cardinals  Legacy: 13.708333333333334
+16 - Team Name: Cowboys  Legacy: 13.708333333333334
+17 - Team Name: Dolphins  Legacy: 12.888888888888888
+18 - Team Name: Eagles  Legacy: 11.181818181818182
+19 - Team Name: Saints  Legacy: 10.5
+20 - Team Name: Rams  Legacy: 10.5
+21 - Team Name: Patriots  Legacy: 9.625
+22 - Team Name: Bears  Legacy: 9.444444444444445
+23 - Team Name: Bengals  Legacy: 8.75
+24 - Team Name: Buccaneers  Legacy: 8.294117647058824
+25 - Team Name: Packers  Legacy: 7.7368421052631575
+26 - Team Name: Colts  Legacy: 7.708333333333334
+27 - Team Name: Chargers  Legacy: 6.444444444444444
+28 - Team Name: Jaguars  Legacy: 5.972222222222222
+29 - Team Name: Bills  Legacy: 5.636363636363637
+30 - Team Name: Broncos  Legacy: 5.333333333333333
+31 - Team Name: Giants  Legacy: 4.666666666666667
+32 - Team Name: Browns  Legacy: 4.3125
+
+
+1 - Player Name: Matt Cassel  Legacy: 67.5
+2 - Player Name: RG3  Legacy: 51.0
+3 - Player Name: Saftey Delmas  Legacy: 47.5
+4 - Player Name: Carson Palmer  Legacy: 47.0
+5 - Player Name: Lewis  Legacy: 46.5
+6 - Player Name: Mark Sanchez  Legacy: 44.0
+7 - Player Name: Darrell McFadden  Legacy: 44.0
+8 - Player Name: Huff  Legacy: 44.0
+9 - Player Name: Jamaal Charles  Legacy: 43.5
+10 - Player Name: Alex Smith  Legacy: 43.5
+11 - Player Name: Matt Schaub  Legacy: 43.5
+12 - Player Name: Matt Hassellback  Legacy: 40.5
+13 - Player Name: Matthew Stafford  Legacy: 40.5
+14 - Player Name: Poe  Legacy: 40.5
+15 - Player Name: Flowers  Legacy: 38.5
+16 - Player Name: Chris Johnson  Legacy: 37.5
+17 - Player Name: Goldson  Legacy: 37.5
+18 - Player Name: Griffin  Legacy: 37.5
+19 - Player Name: Calvin Johnson  Legacy: 37.5
+20 - Player Name: Routt  Legacy: 36.5
+21 - Player Name: Heyward-Bay  Legacy: 35.0
+22 - Player Name: Tony Romo  Legacy: 34.5
+23 - Player Name: Saftey Jackson  Legacy: 34.0
+24 - Player Name: Spencer  Legacy: 34.0
+25 - Player Name: Bartell  Legacy: 34.0
+26 - Player Name: Aaron Rodgers  Legacy: 33.5
+27 - Player Name: Manning  Legacy: 33.5
+28 - Player Name: Ed Reed  Legacy: 33.0
+29 - Player Name: Joe Flacco  Legacy: 32.0
+30 - Player Name: Hall  Legacy: 32.0
+31 - Player Name: Andre Johnson  Legacy: 31.5
+32 - Player Name: Cam Newton  Legacy: 31.5
+33 - Player Name: Matt Ryan  Legacy: 31.5
+34 - Player Name: Big Ben  Legacy: 31.0
+35 - Player Name: Josh Freeman  Legacy: 29.5
+36 - Player Name: Frank Gore  Legacy: 28.5
+37 - Player Name: Kevin Kolb  Legacy: 28.5
+38 - Player Name: Laundry  Legacy: 28.0
+39 - Player Name: Harris  Legacy: 28.0
+40 - Player Name: Darrell Revis  Legacy: 28.0
+41 - Player Name: Antonio Cromartie  Legacy: 28.0
+42 - Player Name: Harrison Smith  Legacy: 27.5
+43 - Player Name: Jackson  Legacy: 27.5
+44 - Player Name: Willis  Legacy: 27.5
+45 - Player Name: Cody  Legacy: 27.5
+46 - Player Name: Cushing  Legacy: 27.5
+47 - Player Name: Jay Cutler  Legacy: 27.0
+48 - Player Name: Matt Moore  Legacy: 27.0
+49 - Player Name: Helu  Legacy: 27.0
+50 - Player Name: Brandon Lloyd  Legacy: 26.5
+51 - Player Name: Rhodes  Legacy: 26.5
+52 - Player Name: Mike Vick  Legacy: 26.5
+53 - Player Name: Morgan Burnett  Legacy: 26.5
+54 - Player Name: Sensabaugh  Legacy: 26.5
+55 - Player Name: Tom Brady  Legacy: 26.5
+56 - Player Name: Stephen Gregory  Legacy: 26.5
+57 - Player Name: Wilson  Legacy: 26.0
+58 - Player Name: Michael Turner  Legacy: 25.5
+59 - Player Name: Marshawn Lynch  Legacy: 25.5
+60 - Player Name: Adrian Peterson  Legacy: 25.5
+61 - Player Name: Taylor  Legacy: 25.0
+62 - Player Name: Jones  Legacy: 25.0
+63 - Player Name: Drew Brees  Legacy: 24.0
+64 - Player Name: Reggie Bush  Legacy: 24.0
+65 - Player Name: Grimes  Legacy: 23.5
+66 - Player Name: Decoud  Legacy: 23.5
+67 - Player Name: Tory Smith  Legacy: 23.0
+68 - Player Name: Steve Smith  Legacy: 22.5
+69 - Player Name: Julio Jones  Legacy: 22.5
+70 - Player Name: Eli Manning  Legacy: 22.5
+71 - Player Name: Mike Wallace  Legacy: 22.0
+72 - Player Name: Grimm  Legacy: 21.5
+73 - Player Name: Babineaux  Legacy: 21.5
+74 - Player Name: Clark  Legacy: 21.0
+75 - Player Name: Earl Thomas  Legacy: 20.5
+76 - Player Name: Munnerlyn  Legacy: 20.5
+77 - Player Name: Martin  Legacy: 20.5
+78 - Player Name: Williams  Legacy: 19.5
+79 - Player Name: Philip Rivers  Legacy: 19.5
+80 - Player Name: RB Wells  Legacy: 19.5
+81 - Player Name: McCoy  Legacy: 19.5
+82 - Player Name: Larry Fitzgerald  Legacy: 19.5
+83 - Player Name: Maurice Jones-drew  Legacy: 19.5
+84 - Player Name: Matt Flynn  Legacy: 19.5
+85 - Player Name: Dex Bryant  Legacy: 19.5
+86 - Player Name: Jenkins  Legacy: 19.0
+87 - Player Name: Mikell  Legacy: 19.0
+88 - Player Name: Allen  Legacy: 18.5
+89 - Player Name: McClain  Legacy: 18.5
+90 - Player Name: Carr  Legacy: 18.5
+91 - Player Name: Cox  Legacy: 18.5
+92 - Player Name: Asomaugh  Legacy: 18.5
+93 - Player Name: Claiborne  Legacy: 18.5
+94 - Player Name: Beason  Legacy: 18.5
+95 - Player Name: Richard Sherman  Legacy: 18.5
+96 - Player Name: Peyton Manning  Legacy: 18.0
+97 - Player Name: Sam Bradford  Legacy: 18.0
+98 - Player Name: Steven Jackson  Legacy: 18.0
+99 - Player Name: Desean Jackson  Legacy: 17.5
+100 - Player Name: Blackburn  Legacy: 17.5
+101 - Player Name: Bethea  Legacy: 17.5
+102 - Player Name: Andrew Luck  Legacy: 16.5
+103 - Player Name: RB Brown  Legacy: 16.5
+104 - Player Name: Carter  Legacy: 16.0
+105 - Player Name: Rolle  Legacy: 15.5
+106 - Player Name: Andy Dalton  Legacy: 15.5
+107 - Player Name: Demyrius Thomas  Legacy: 15.0
+108 - Player Name: Fred Jackson  Legacy: 14.5
+109 - Player Name: Ryan Fitzpatrick  Legacy: 14.5
+110 - Player Name: Colt McCoy  Legacy: 14.5
+111 - Player Name: Young  Legacy: 14.5
+112 - Player Name: Reggie Nelson  Legacy: 14.5
+113 - Player Name: Tilman  Legacy: 14.0
+114 - Player Name: Conte  Legacy: 14.0
+115 - Player Name: Brian Urlachur  Legacy: 14.0
+116 - Player Name: Matthews  Legacy: 13.5
+117 - Player Name: McGee  Legacy: 13.5
+118 - Player Name: Shepard  Legacy: 13.5
+119 - Player Name: Cason  Legacy: 12.5
+120 - Player Name: RB Richardson  Legacy: 11.5
+121 - Player Name: Young and Jackson  Legacy: 10.5
+122 - Player Name: NA  Legacy: 5.0
+
+Average Team Legacy: 13.69582961798156
+Average Player Legacy: 25.864754098360656
+
+Listing out all dynasties:
+
+Redskins
+Dynasty: 
+L90 L93 L98 
+Dynasty: 
+W205 W206 W207 
+
+Saints
+Dynasty: 
+L1 W3 L8 W12 
+
+Broncos
+Dynasty: 
+W230 W233 L238 
+
+Packers
+Dynasty: 
+W61 W66 L68 L70 
+Dynasty: 
+W137 L142 L146 
+Dynasty: 
+W200 W203 L210 
+
+Dolphins
+Dynasty: 
+W28 W31 W36 L38 
+Dynasty: 
+W47 L50 L51 
+
+Ravens
+Dynasty: 
+L30 L31 L33 L40 
+Dynasty: 
+L204 L211 W218 
+
+Buccaneers
+Dynasty: 
+L102 W109 W110 L111 
+Dynasty: 
+L181 W182 L188 
+
+Jets
+Dynasty: 
+W183 L186 L189 L193 W196 
+
+Raiders
+Dynasty: 
+L34 L39 L45 W49 
+Dynasty: 
+L176 W178 W179 L180 
+Dynasty: 
+W189 W191 L194 W199 
+
+Rams
+Dynasty: 
+W25 L28 W34 
+
+Lions
+
+Titans
+Dynasty: 
+W192 L198 L203 W204 
+Dynasty: 
+L216 W217 L220 W225 L229 
+
+Bengals
+Dynasty: 
+W20 W27 W33 
+
+Chiefs
+Dynasty: 
+L148 W151 W152 W159 L160 W164 W168 
+Dynasty: 
+W219 W221 W223 
+
+Patriots
+Dynasty: 
+L19 L20 W24 W29 
+Dynasty: 
+L120 L125 L129 
+
+Steelers
+Dynasty: 
+W44 W48 L52 
+
+Chargers
+
+Texans
+Dynasty: 
+W220 L224 W231 W237 
+
+Bills
+Dynasty: 
+W154 L155 L159 L163 
+
+Vikings
+Dynasty: 
+W104 L106 L108 W113 
+
+49ers
+Dynasty: 
+L91 W92 L96 W103 L105 
+Dynasty: 
+L141 W147 L151 
+
+Giants
+Dynasty: 
+L127 L128 W133 L139 
+
+Seahawks
+
+Colts
+Dynasty: 
+L166 L173 L174 L178 L182 
+Dynasty: 
+L205 W209 W213 
+
+Cardinals
+Dynasty: 
+W163 L170 L171 
+
+Panthers
+Dynasty: 
+W187 W193 L199 
+
+Jaguars
+Dynasty: 
+W129 L131 L137 
+Dynasty: 
+L192 L196 L201 
+
+Bears
+
+Falcons
+Dynasty: 
+L115 L118 L124 
+
+Eagles
+Dynasty: 
+L49 W56 L57 
+Dynasty: 
+L114 W115 L122 
+
+Browns
+
+Cowboys
+Dynasty: 
+W124 L130 L134 
+Dynasty: 
+L209 W210 W212 
+
