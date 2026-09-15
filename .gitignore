@@ -1,0 +1,6 @@
+**/out/
+**/.idea/
+**/*.class
+**/*Key.txt
+**/*Key.txt.pub
+**/*.pem
