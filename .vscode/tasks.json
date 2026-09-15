@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Madden Data Visualization",
+            "type": "process",
+            "command": "javac",
+            "args": [
+                "-d",
+                "${workspaceFolder}/Madden Data Visualization/out",
+                "${workspaceFolder}/Madden Data Visualization/src/Championship.java",
+                "${workspaceFolder}/Madden Data Visualization/src/Main.java",
+                "${workspaceFolder}/Madden Data Visualization/src/Player.java",
+                "${workspaceFolder}/Madden Data Visualization/src/Team.java"
+            ],
+            "problemMatcher": "$javac"
+        }
+    ]
+}

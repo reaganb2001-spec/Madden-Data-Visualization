@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Madden Data Visualization",
+            "request": "launch",
+            "mainClass": "Main",
+            "classPaths": [
+                "${workspaceFolder}/Madden Data Visualization/out"
+            ],
+            "cwd": "${workspaceFolder}/Madden Data Visualization",
+            "preLaunchTask": "Build Madden Data Visualization"
+        }
+    ]
+}
